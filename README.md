@@ -7,5 +7,5 @@ PhotoAddress 给出两种方法获取图片的地理位置信息，根据经纬�
 ## Gif:
 
 
-![img]() 
+![img](https://github.com/carrot1994/PhotoAddress/blob/master/gif.gif) 
 
